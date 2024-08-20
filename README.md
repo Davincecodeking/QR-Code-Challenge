@@ -14,7 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 00
 m n- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -40,7 +39,7 @@ m n- [Author](#author)
 
 ### What I learned
 
-One major learning core for me is learning how to work with external fonts and making , e.g. Google fonts 
+One major learning core for me is learning how to work with external fonts e.g. Google fonts 
 To see how you can add code snippets, see below:
 
 ```html
@@ -48,10 +47,11 @@ To see how you can add code snippets, see below:
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
 ```
 ```css
-* {
+ {
   box-sizing: border-box;
   font-family: "Outfit", "Helvetica", "sans-serif";
-}```
+}
+```
 
 
 ### Continued development
@@ -68,9 +68,10 @@ Master the use of media queries to create layouts that adapt to different screen
 ### Useful resources
 
 
-- [Example resource 1](https://www.google.com) - This helped me to quickly research a style or things I'm not clear with. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.joshwcomeau.com/css/pixel-perfection/) - This is an amazing article which helped me understand pixel-perfection ideology. I'd recommend it to anyone still learning this concept.
- [Example resource 3](https://chatgpt.com/) - This helped me to quickly research on how to add a new font to your project using google font.
+- [Google](https://www.google.com) - This helped me to quickly research a style or things I'm not clear with. I really liked this pattern and will use it going forward.
+- [Joshwcomeau](https://www.joshwcomeau.com/css/pixel-perfection/) - This is an amazing article which helped me understand pixel-perfection ideology. I'd recommend it to anyone still learning this concept.
+- [Chatgpt](https://chatgpt.com/) - This helped me to quickly research on how to add a new font to your project using google font.
+- [StackOverflow](https://stackoverflow.com/) - This helped my debugging process.
 
 ## Author
 
