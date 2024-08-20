@@ -19,7 +19,7 @@ m n- [Author](#author)
 ## Overview
 
 ### Screenshot
-![alt text](https://github.com/Davincecodeking/QrCodeChallenge/blob/main/src/assets/qr_Imgs/image-qr-code.png)
+![alt text](https://github.com/Davincecodeking/QrCodeChallenge/blob/main/src/assets/qr_Imgs/DesktopView.png)
 
 
 ### Links
