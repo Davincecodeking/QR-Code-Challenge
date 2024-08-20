@@ -1,27 +1,81 @@
-# FrontendMentor
+# Frontend Mentor - QR code component solution
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Development server
+## Table of contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+00
+m n- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-## Code scaffolding
+## Overview
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Screenshot
+![alt text](https://github.com/Davincecodeking/QrCodeChallenge/blob/main/src/assets/qr_Imgs/image-qr-code.png)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Links
 
-## Running unit tests
+- Solution URL: [Add solution URL here](https://github.com/Davincecodeking/QrCodeChallenge.git)
+- Live Site URL: [Add live site URL here](https://qr-code-challenge-rouge-eight.vercel.app/qrCardDeskView)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## My process
 
-## Running end-to-end tests
+### Built with
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- [Angular.js](https://angular.io/) - Angular framework
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### What I learned
+
+One major learning core for me is learning how to work with external fonts and making , e.g. Google fonts 
+To see how you can add code snippets, see below:
+
+```html
+
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+```
+```css
+* {
+  box-sizing: border-box;
+  font-family: "Outfit", "Helvetica", "sans-serif";
+}```
+
+
+### Continued development
+
+Areas I will like to focus more in future projects includes the followings: 
+
+CSS Grid: Deepen understanding of CSS Grid for creating complex, responsive layouts. Experiment with grid template areas, implicit and explicit grid tracks, and responsive design patterns.
+
+Flexbox: Refine skills with Flexbox, focusing on alignment, distribution, and responsive layouts. Practice handling edge cases and nested flex containers.
+
+Master the use of media queries to create layouts that adapt to different screen sizes and orientations.
+
+
+### Useful resources
+
+
+- [Example resource 1](https://www.google.com) - This helped me to quickly research a style or things I'm not clear with. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.joshwcomeau.com/css/pixel-perfection/) - This is an amazing article which helped me understand pixel-perfection ideology. I'd recommend it to anyone still learning this concept.
+ [Example resource 3](https://chatgpt.com/) - This helped me to quickly research on how to add a new font to your project using google font.
+
+## Author
+
+- Website - [Vincent Ogunkorode](https://www.behance.net/davincedesign)
+- Frontend Mentor - [@Davincecodeking](https://www.frontendmentor.io/profile/Davincecodeking)
+- Twitter - [@davincedesign](https://www.twitter.com/davincedesign)
+
+
