@@ -24,8 +24,8 @@ m n- [Author](#author)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Davincecodeking/QrCodeChallenge.git)
-- Live Site URL: [Add live site URL here](https://qr-code-challenge-rouge-eight.vercel.app/qrCardDeskView)
+- Solution URL: [https://github.com/Davincecodeking/QrCodeChallenge.git](https://github.com/Davincecodeking/QrCodeChallenge.git)
+- Live Site URL: [https://qr-code-challenge-rouge-eight.vercel.app/qrCardDeskView](https://qr-code-challenge-rouge-eight.vercel.app/qrCardDeskView)
 
 ## My process
 
